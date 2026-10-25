@@ -1,0 +1,10 @@
+# build output
+bin/
+obj/
+dist/
+installer/output/
+
+# editor / tooling
+.vs/
+*.user
+*.suo
